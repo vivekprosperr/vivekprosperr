@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @vivekprosperr
 - 👀 I’m interested in JavaScript Development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning ReactJs
 
 <!---
 vivekprosperr/vivekprosperr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
